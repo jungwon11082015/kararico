@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkproject"]=self["webpackChunkproject"]||[]).push([[162],{2162:function(n,r,e){e.r(r),e.d(r,{default:function(){return a}});var t=e(3396);function u(n,r,e,u,c,o){return(0,t.wg)(),(0,t.iD)("p",null,"어바웃 페이지")}var c={name:"About",props:{}},o=e(89);const p=(0,o.Z)(c,[["render",u]]);var a=p}}]);
+//# sourceMappingURL=162.2faa7969.js.map
